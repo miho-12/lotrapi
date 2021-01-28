@@ -1,11 +1,12 @@
 import React from "react";
+import Lotrlogo from "../../img/lotrimg.jpg";
 
 const CharacterItem = ({ item }) => {
   return (
     <div className="card">
       <div className="card-inner">
         <div className="card-front">
-          <img src={item.img} alt="" />
+          <img src={Lotrlogo} alt="" />
         </div>
         <div className="card-back">
           <h1>{item.name}</h1>
