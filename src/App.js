@@ -10,7 +10,7 @@ const App = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [query, setQuery] = useState("");
 
-  const accesToken = "4D7pE2GSy-muHNO_CZDd";
+  const accesToken = "nU8gpmFKFbKK2O16gO4f";
 
   axios.interceptors.request.use(
     (config) => {
