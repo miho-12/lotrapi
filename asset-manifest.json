@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lotrapi/static/css/main.5dc32020.chunk.css",
+    "main.js": "/lotrapi/static/js/main.3252a8ba.chunk.js",
+    "main.js.map": "/lotrapi/static/js/main.3252a8ba.chunk.js.map",
+    "runtime-main.js": "/lotrapi/static/js/runtime-main.ca31686a.js",
+    "runtime-main.js.map": "/lotrapi/static/js/runtime-main.ca31686a.js.map",
+    "static/js/2.e8c2c363.chunk.js": "/lotrapi/static/js/2.e8c2c363.chunk.js",
+    "static/js/2.e8c2c363.chunk.js.map": "/lotrapi/static/js/2.e8c2c363.chunk.js.map",
+    "index.html": "/lotrapi/index.html",
+    "static/css/main.5dc32020.chunk.css.map": "/lotrapi/static/css/main.5dc32020.chunk.css.map",
+    "static/js/2.e8c2c363.chunk.js.LICENSE.txt": "/lotrapi/static/js/2.e8c2c363.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/lotrapi/static/media/bg.085908ea.jpg",
+    "static/media/logo.f7b88891.png": "/lotrapi/static/media/logo.f7b88891.png",
+    "static/media/lotrimg.c5a13e45.jpg": "/lotrapi/static/media/lotrimg.c5a13e45.jpg",
+    "static/media/spinner.11d9cde8.gif": "/lotrapi/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca31686a.js",
+    "static/js/2.e8c2c363.chunk.js",
+    "static/css/main.5dc32020.chunk.css",
+    "static/js/main.3252a8ba.chunk.js"
+  ]
+}
